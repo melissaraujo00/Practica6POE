@@ -12,7 +12,7 @@ namespace DataAccessLayer.DbConnection
         private readonly string _connectionString;
         public SqleDataAccess() 
         {
-            _connectionString = "Data Source=MERLYNRAJO\\SQLEXPRESS;Initial Catalog=StudentAdministratorDB;Integrated Security=True;Trust Server Certificate=True";
+            _connectionString = "Data Source=DESKTOP-JDM7JV2\\MSSQLSERVER01;Initial Catalog=StudentAdministratorDB;Integrated Security=True;Encrypt=False";
         }
 
         public SqlConnection GetConnection()

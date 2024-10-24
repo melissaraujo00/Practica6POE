@@ -10,3 +10,9 @@ C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\obj\Debug\net8.0
 C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
 C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Melissa\source\repos\StudenAdministrator\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
